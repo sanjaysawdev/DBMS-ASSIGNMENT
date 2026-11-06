@@ -21,7 +21,6 @@ The purpose of this repository is to understand and practice SQL queries, databa
 | 09 | Supermarket Product Sales System | Product, customer and sales management |
 | 10 | Library Management System | Books, members, issue and return management |
 
-## Technologies Used
 
 ## Technologies Used
 
